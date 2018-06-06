@@ -15,6 +15,9 @@ module.exports = {
           test: /\.jsx?$/,
           exclude: /node_modules/,
           loader: 'babel-loader',
+          options: {
+            presets: ['airbnb']
+          }
         },
         {
           test: /\.(png|jpg|eot|woff|woff2|ttf|svg)$/,
