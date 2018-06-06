@@ -75,5 +75,8 @@
       "enzyme",
       "jest-enzyme"
     ]
+  },
+  "engines": {
+    "node": "8.11.x"
   }
 }
