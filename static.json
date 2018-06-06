@@ -1,7 +1,4 @@
 {
-  "root": "styleguide/",
-  "routes": {
-    "/assets/*": "/build/",
-    "/**": "index.html"
-  }
+  "root": "styleguide",
+  "clean_urls": false
 }
