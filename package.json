@@ -19,7 +19,8 @@
     "lint:fix": "eslint  src --fix",
     "prepublish": "npm run build",
     "doc": "styleguidist server",
-    "doc:build": "styleguidist build"
+    "doc:build": "styleguidist build",
+    "heroku-postinstall": "npm run doc:build"
   },
   "dependencies": {
     "prop-types": "15.6.1",
