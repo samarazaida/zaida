@@ -1,6 +1,6 @@
 {
-  "name": "@olist/united-react-components",
-  "version": "0.0.0",
+  "name": "zaida-components",
+  "version": "0.0.1",
   "description": "react-components",
   "main": "lib/index.js",
   "module": "es/index.js",
