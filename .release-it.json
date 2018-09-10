@@ -1,0 +1,17 @@
+{
+  "pkgFiles": ["package.json"],
+  "requireUpstream": false,
+  "github": {
+    "release": true
+  },
+  "buildCommand": "npm run build",
+  "dist": {
+    "repo": "git@github.com:samarazaida/zaida.git",
+    "baseDir": "dist",
+    "files": ["**/*"],
+    "github": {
+      "release": true
+    },
+    "commit": false
+  }
+}

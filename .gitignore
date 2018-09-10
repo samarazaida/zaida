@@ -63,3 +63,5 @@ typings/
 /styleguide/
 es/
 lib/
+
+.DS_Store
