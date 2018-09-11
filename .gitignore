@@ -65,3 +65,4 @@ es/
 lib/
 
 .DS_Store
+.stage

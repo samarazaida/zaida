@@ -4,14 +4,5 @@
   "github": {
     "release": true
   },
-  "buildCommand": "npm run build",
-  "dist": {
-    "repo": "git@github.com:samarazaida/zaida.git",
-    "baseDir": "dist",
-    "files": ["**/*"],
-    "github": {
-      "release": true
-    },
-    "commit": false
-  }
+  "buildCommand": "npm run build"
 }
