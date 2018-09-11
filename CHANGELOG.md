@@ -1,3 +1,9 @@
+## 0.1.0 (2018-09-11)
+
+* Add footer component ([bcb705d](https://github.com/samarazaida/zaida/commit/bcb705d))
+
+
+
 ## <small>0.0.3 (2018-09-11)</small>
 
 * Remove unnecessary package deps ([f13be5d](https://github.com/samarazaida/zaida/commit/f13be5d))
