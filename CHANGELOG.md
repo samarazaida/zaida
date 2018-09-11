@@ -1,3 +1,10 @@
+## <small>0.1.1 (2018-09-11)</small>
+
+* Add Footer.H7 component ([c26ee0c](https://github.com/samarazaida/zaida/commit/c26ee0c))
+* Remove prepublish script ([c400b5e](https://github.com/samarazaida/zaida/commit/c400b5e))
+
+
+
 ## 0.1.0 (2018-09-11)
 
 * Add footer component ([bcb705d](https://github.com/samarazaida/zaida/commit/bcb705d))
