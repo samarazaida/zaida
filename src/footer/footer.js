@@ -19,5 +19,6 @@ Footer.H3 = props => <Footer is="h3" fontSize={3} {...props} />;
 Footer.H4 = props => <Footer is="h4" fontSize={2} {...props} />;
 Footer.H5 = props => <Footer is="h5" fontSize={1} {...props} />;
 Footer.H6 = props => <Footer is="h6" fontSize={0} {...props} />;
+Footer.H7 = props => <Footer is="h6" fontSize={0} {...props} />;
 
 export default Footer;
