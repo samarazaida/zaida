@@ -20,7 +20,8 @@
     "prepublish": "npm run build",
     "doc": "styleguidist server",
     "doc:build": "styleguidist build",
-    "heroku-postbuild": "npm run doc:build"
+    "heroku-postbuild": "npm run doc:build",
+    "release": "nodenv --exec release-it"
   },
   "dependencies": {
     "prop-types": "15.6.1",
@@ -52,6 +53,7 @@
     "jest": "22.4.4",
     "jest-enzyme": "6.0.0",
     "markdown-loader": "2.0.2",
+    "node-env-run": "^3.0.2",
     "nwb": "0.21.x",
     "react": "16.3.2",
     "react-dom": "16.3.2",
